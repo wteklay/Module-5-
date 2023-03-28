@@ -2,7 +2,7 @@
 
 ## Background and Purpose
 
-This study aimed to compare the performance of Pymaceuticals' drug of interest, Capomulin, versus other current treatment regimens. Data analysis consists of cleaning and merging datasets to generate appropriate tables and figures essential to present a statistically sound report. In this study, 249 mice identified with SCC tumor growth were treated through various drug regimens currently on the market. Over 45 days, tumor development, measured in tumor volume (mm), was observed and measured to assess Capomulin's efficacy. 
+This study aimed to compare the performance of Pymaceuticals' drug of interest, Capomulin, against current treatment regimens. Data analysis consists of cleaning and merging datasets to generate appropriate tables and figures essential to present a statistically sound report. In this study, 249 mice identified with SCC tumor growth were treated through various drug regimens currently on the market. Over 45 days, tumor development, measured in tumor volume (mm), was observed and measured to assess Capomulin's efficacy. 
 
 
 ## Results
